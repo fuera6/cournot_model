@@ -15,3 +15,9 @@
 ## Directories & Files
 * document: 개발 관련 문서
 * source_code: 프로그램 소스코드
+  * Main.c: 메인 화면 구성
+  * Cournot.c: 프로그램의 전반적 기능을 담당하는 함수
+  * CCW.c: CCW 알고리즘 및 선분 교차 여부 판단 함수
+  * ChainingBasedLinkedList.c: 체이닝(Chaining) 기반 연결리스트 관련 함수
+  * Queue.c: 큐(Queue) 관련 함수
+  * Mixed.h: 상수, 구조체, 함수 관련 헤더 파일
